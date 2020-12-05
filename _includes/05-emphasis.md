@@ -1,0 +1,3 @@
+- Excellent **oral and written** communication skills
+- Strong *public speaker*
+- Experience *leading* ***and*** **teaching** others
