@@ -1,1 +1,3 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+- Excellent **oral and written** communication skills
+- Strong *public speaker*
+- Experience *leading* ***and*** **teaching** others
